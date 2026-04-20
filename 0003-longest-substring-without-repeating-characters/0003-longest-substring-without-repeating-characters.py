@@ -17,8 +17,6 @@ class Solution:
                 maxcnt=max(maxcnt,len(st))
                 j+=1
                 cnt+=1
-            else:
-                return len(s)
         
         return cnt if maxcnt==0 else maxcnt
 
