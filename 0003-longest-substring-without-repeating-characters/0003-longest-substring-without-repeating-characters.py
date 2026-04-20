@@ -9,10 +9,7 @@ class Solution:
         st=""
         while j <= len(s)-1:
             if s[j] in st:
-                maxcnt=max(len(st),maxcnt) 
-                print(st)
                 st=""
-                print(st)
                 i+=1
                 j=i
             elif s[j] not in st:
