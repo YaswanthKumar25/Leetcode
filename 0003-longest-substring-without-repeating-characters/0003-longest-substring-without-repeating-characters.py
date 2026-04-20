@@ -3,7 +3,6 @@ class Solution:
         if len(s)==0 or len(s)==1:
             return len(s)
         maxcnt=0
-        cnt=0
         i=0
         j=0
         st=""
@@ -16,9 +15,7 @@ class Solution:
                 st+=s[j]
                 maxcnt=max(maxcnt,len(st))
                 j+=1
-                cnt+=1
-        
-        return cnt if maxcnt==0 else maxcnt
+        return maxcnt
 
 
 
