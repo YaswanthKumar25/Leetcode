@@ -3,7 +3,7 @@ class Solution:
         left=0
         right=len(height)-1
         maxi=0
-        while left <= right:
+        while left < right:
             maxi=max(maxi,min(height[left],height[right])*(right-left))
             if height[left]<height[right]:
                 left+=1
