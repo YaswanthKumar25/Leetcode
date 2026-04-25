@@ -3,7 +3,6 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        j=0
         arr=[]
         for i in range(len(nums1)):
             if nums1[i]==0:
