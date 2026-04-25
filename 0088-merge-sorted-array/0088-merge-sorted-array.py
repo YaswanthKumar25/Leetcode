@@ -1,0 +1,13 @@
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        """
+        Do not return anything, modify nums1 in-place instead.
+        """
+        j=0
+        arr=[]
+        for i in range(len(nums1)):
+            if nums1[i]==0:
+                arr.append(i)
+        for i in range(len(nums2)):
+            nums1[arr[i]]=nums2[i]
+        nums1.sort()
