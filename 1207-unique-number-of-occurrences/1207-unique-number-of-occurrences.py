@@ -6,8 +6,5 @@ class Solution:
                 hash[arr[i]]+=1
             else:
                 hash[arr[i]]=1
-        if len(hash.values())==len(set(hash.values())):
-            return True
-        else:
-            return False
+        return len(hash.values())==len(set(hash.values()))
         
