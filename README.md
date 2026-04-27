@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/YaswanthKumar25/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YaswanthKumar25/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/YaswanthKumar25/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YaswanthKumar25/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3866-first-unique-even-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -90,10 +93,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/YaswanthKumar25/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YaswanthKumar25/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/YaswanthKumar25/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
