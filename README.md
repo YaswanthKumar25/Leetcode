@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/YaswanthKumar25/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/YaswanthKumar25/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3866-first-unique-even-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3701-compute-alternating-sum](https://github.com/YaswanthKumar25/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Database
 |  |
 | ------- |
