@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YaswanthKumar25/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
