@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/YaswanthKumar25/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3866-first-unique-even-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YaswanthKumar25/Leetcode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/YaswanthKumar25/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
