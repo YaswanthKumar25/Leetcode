@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3467-transform-array-by-parity](https://github.com/YaswanthKumar25/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/YaswanthKumar25/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/YaswanthKumar25/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3866-first-unique-even-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/YaswanthKumar25/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3866-first-unique-even-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3467-transform-array-by-parity](https://github.com/YaswanthKumar25/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
