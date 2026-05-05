@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/YaswanthKumar25/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YaswanthKumar25/Leetcode/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/YaswanthKumar25/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YaswanthKumar25/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
