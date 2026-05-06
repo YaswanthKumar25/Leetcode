@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/YaswanthKumar25/Leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YaswanthKumar25/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YaswanthKumar25/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/YaswanthKumar25/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YaswanthKumar25/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YaswanthKumar25/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YaswanthKumar25/Leetcode/tree/master/3110-score-of-a-string) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YaswanthKumar25/Leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YaswanthKumar25/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
