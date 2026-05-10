@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/YaswanthKumar25/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/YaswanthKumar25/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/YaswanthKumar25/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YaswanthKumar25/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/YaswanthKumar25/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/YaswanthKumar25/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/YaswanthKumar25/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YaswanthKumar25/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/YaswanthKumar25/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/YaswanthKumar25/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YaswanthKumar25/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/YaswanthKumar25/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YaswanthKumar25/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YaswanthKumar25/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
