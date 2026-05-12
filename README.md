@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YaswanthKumar25/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/YaswanthKumar25/Leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1470-shuffle-the-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YaswanthKumar25/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/1929-concatenation-of-array) |
