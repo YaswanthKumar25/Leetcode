@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YaswanthKumar25/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/YaswanthKumar25/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/YaswanthKumar25/Leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/YaswanthKumar25/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YaswanthKumar25/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YaswanthKumar25/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YaswanthKumar25/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/YaswanthKumar25/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/YaswanthKumar25/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
