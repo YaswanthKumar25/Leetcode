@@ -188,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YaswanthKumar25/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/YaswanthKumar25/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YaswanthKumar25/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YaswanthKumar25/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
