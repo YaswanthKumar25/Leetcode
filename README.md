@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YaswanthKumar25/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/YaswanthKumar25/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/YaswanthKumar25/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/YaswanthKumar25/Leetcode/tree/master/2235-add-two-integers) |
