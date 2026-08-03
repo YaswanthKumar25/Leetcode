@@ -233,9 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/YaswanthKumar25/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YaswanthKumar25/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YaswanthKumar25/Leetcode/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/YaswanthKumar25/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
