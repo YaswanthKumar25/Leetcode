@@ -1,13 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(s)!=len(t):
-            return False
         hash={}
         for i in range(len(s)):
-            hash[s[i]]=hash.get(s[i],0)+1
-            hash[t[i]]=hash.get(t[i],0)-1
-        print(hash)
-        for val in hash.values():
-            if val !=0:
+            if s[i] in hash:
+                hash[s[i]]+=1
+            else:
+                hash[s[i]]=1
+        for i in range(len(t)):
+            if t[i] in hash:
+                hash[t[i]]-=1
+                if hash[t[i]]==0:
+                    del hash[t[i]]
+            else:
                 return False
-        return True
+        if not hash:
+            return True
+        return False
+        
