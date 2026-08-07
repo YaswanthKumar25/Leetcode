@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YaswanthKumar25/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/YaswanthKumar25/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/YaswanthKumar25/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/YaswanthKumar25/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YaswanthKumar25/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/YaswanthKumar25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/YaswanthKumar25/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YaswanthKumar25/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YaswanthKumar25/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/YaswanthKumar25/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/YaswanthKumar25/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/YaswanthKumar25/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/YaswanthKumar25/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YaswanthKumar25/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/YaswanthKumar25/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/YaswanthKumar25/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/YaswanthKumar25/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/YaswanthKumar25/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/YaswanthKumar25/Leetcode/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/YaswanthKumar25/Leetcode/tree/master/1108-defanging-an-ip-address) |
