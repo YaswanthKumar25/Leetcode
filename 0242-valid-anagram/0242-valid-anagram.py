@@ -13,9 +13,6 @@ class Solution:
                 hash[t[i]]-=1
                 if hash[t[i]]==0:
                     del hash[t[i]]
-            else:
-                return False
-        if not hash:
-            return True
-        return False
-        
+        if hash:
+            return False
+        return True
