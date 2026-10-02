@@ -1,10 +1,11 @@
 class Solution:
-    def uniqueOccurrences(self, arr: List[int]) -> bool:
+    def uniqueOccurrences(self, arr: list[int]) -> bool:
         hash={}
-        for i in range(len(arr)):
-            if arr[i] in hash:
-                hash[arr[i]]+=1
+        for i in arr:
+            if i in hash:
+                hash[i]+=1
             else:
-                hash[arr[i]]=1
-        return len(hash.values())==len(set(hash.values()))
+                hash[i]=1
+        return len(set(hash.values()))==len(hash.values())
+        
         
